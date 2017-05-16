@@ -11,4 +11,6 @@ The current setup supports:
 iconName = {"Icon-xxxhdpi", "Icon-xxhdpi", "Icon-xhdpi", "Icon-mdpi", "Icon-ldpi", "Icon-hdpi", "Icon-180", "Icon-167", "Icon-152", "Icon-120", "Icon-87", "Icon-80", "Icon-76", "Icon-58", "Icon-40", "Icon",}
 iconSize = {192, 144, 96, 48, 36, 72, 180, 167, 152, 120, 87, 80, 76, 58, 40, 57}
 
+The files are created in your Documents directory of the simulator w/in Sandbox. I have not tried but there should be a way to deploy native OSx and Windows programs. 
+
 Feel free to add more!
