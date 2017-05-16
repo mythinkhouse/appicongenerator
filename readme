@@ -3,3 +3,5 @@ To operate this replace the main icon you want (I suggest a square file size >= 
 Replace the file with appIconMain.png
 
 The device height and width in your config.lua need to be set to the actual height and width of the device/simluator you are using.
+
+To add additional icons to be created add the name you would like (do not include the .png extension) to the table on line 17 and add the squared size you would like it to be on line 18.
