@@ -5,3 +5,10 @@ Replace the file with appIconMain.png
 The device height and width in your config.lua need to be set to the actual height and width of the device/simluator you are using.
 
 To add additional icons to be created add the name you would like (do not include the .png extension) to the table on line 17 and add the squared size you would like it to be on line 18.
+
+The current setup supports:
+
+iconName = {"Icon-xxxhdpi", "Icon-xxhdpi", "Icon-xhdpi", "Icon-mdpi", "Icon-ldpi", "Icon-hdpi", "Icon-180", "Icon-167", "Icon-152", "Icon-120", "Icon-87", "Icon-80", "Icon-76", "Icon-58", "Icon-40", "Icon",}
+iconSize = {192, 144, 96, 48, 36, 72, 180, 167, 152, 120, 87, 80, 76, 58, 40, 57}
+
+Feel free to add more!
