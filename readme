@@ -1,0 +1,5 @@
+To operate this replace the main icon you want (I suggest a square file size >= 500 x 500). 
+
+Replace the file with appIconMain.png
+
+The device height and width in your config.lua need to be set to the actual height and width of the device/simluator you are using.
